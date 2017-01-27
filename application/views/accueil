@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Accueil</title>
+        <meta name="description" content="Login de mon site">
+
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="/TpCodeIgniter/assets/css/form.css" style="text/css" rel="stylesheet">
+    </head>
+
+	<body>
+        <header>
+            <!-- Bandeau
+            =========================================-->
+            <nav class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <!-- Logo de notre site-->
+                        <a class="navbar-brand" href="#">
+                        <img src=""> 
+                        </a>
+
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsedMenu" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        <!-- Titre de notre site-->
+                        <a class="navbar-brand" href="#page-top">Watch My Trip</a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="collapsedMenu">
+                        <ul class="nav navbar-nav">
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+           </nav>
+        </header>
+
+        <!-- Carousel
+        ===========================================================-->
+
+        <!-- Formulaire
+        ==============================================================-->
+
+        <!-- Pied de page
+        ===============================================================-->

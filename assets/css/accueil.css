@@ -1,0 +1,71 @@
+#btnNewMembre {
+    position: relative;
+    float: right;
+}
+#carousel{
+    top:150px;
+}
+#formContainer{
+    margin-top: 500px;
+}
+#formulaire{
+    text-align: left;
+}
+#formContainer {
+    height: 400px;
+    margin-top: 100px;
+}
+img {
+    width: 69%;
+    display: block;
+    margin: auto;
+}
+li{
+    width: 25%;
+    text-align: center;
+}
+#logo{
+   width: 100px; 
+   margin-left: 20px;
+}
+#menu{
+    background-color: white;
+    height: 55px;
+}
+.navbar{
+    height: 100px;
+}
+.navbar-header{
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+}
+.navbar-brand{
+    float: none;
+    font-size: 80px;
+}
+.navbar-toggle{
+    margin-top: 32px;
+}
+.navbar-nav{
+    width: 50%;
+    margin-left: 25%;
+}
+#onglets{
+    height: 50px;
+}
+#textColorPerso{
+    color: #80ced6;
+}
+#textColorPerso2{
+    color: #36486b;
+}
+#top{
+}
+
+
+@media screen and (max-width: 450px){
+    .navbar-brand{
+        display: none;
+    }
+}
